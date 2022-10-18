@@ -1,4 +1,4 @@
-package com.company;
+package com.mirrors;
 
 public class Room {
     protected int xPos;

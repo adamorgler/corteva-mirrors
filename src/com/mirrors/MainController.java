@@ -1,4 +1,4 @@
-package com.company;
+package com.mirrors;
 
 import java.io.File;
 import java.util.ArrayList;

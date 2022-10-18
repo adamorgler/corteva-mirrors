@@ -1,6 +1,4 @@
-package com.company;
-
-import java.util.ArrayList;
+package com.mirrors;
 
 public class Building {
 
